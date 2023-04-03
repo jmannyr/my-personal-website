@@ -1,0 +1,33 @@
+
+
+h1 {color: rgb(255, 44, 44);
+    text-align: center;
+    font-style: oblique;
+    
+
+}
+    
+
+body {color: crimson;
+    background-image: url(https://img.freepik.com/free-photo/illustration-geometric-shapes-with-neon-laser-lights-great-backgrounds-wallpapers_181624-32746.jpg?w=996&t=st=1679961815~exp=1679962415~hmac=5c99e09b45f781d3aa83e19417b1376904c7e088c6ee762b6248bc2fb2af5a80);
+    text-align: center;
+    
+}
+
+p {font-size: larger;
+    font-style: initial;
+
+}
+
+
+section {margin-left: auto;
+margin-right: auto;
+
+}
+
+ul {
+    list-style-type: none;
+text-align: center;
+
+
+}
